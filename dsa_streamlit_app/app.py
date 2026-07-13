@@ -6,7 +6,7 @@ import streamlit as st
 import requests
 
 # Configuração da página do Streamlit
-st.set_page_config(page_title = "Data Science Academy", page_icon = ":100:", layout = "centered")
+st.set_page_config(page_title = "Vagnet.com", page_icon = ":171:", layout = "centered")
 
 # Título principal
 st.title("🧪 VAG-IA é a IA do Vagnão, sem rastreabilidade, sem limite de Token, ideal para Bandindin ")
